@@ -1,0 +1,9 @@
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAWS\JAWS\bin\Debug\JAWS.exe.config
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAWS\JAWS\bin\Debug\JAWS.exe
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAWS\JAWS\bin\Debug\JAWS.pdb
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAWS\JAWS\obj\Debug\JAWS.csprojResolveAssemblyReference.cache
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAWS\JAWS\obj\Debug\JAWS.MainForm.resources
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAWS\JAWS\obj\Debug\JAWS.csproj.GenerateResource.Cache
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAWS\JAWS\obj\Debug\JAWS.exe
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAWS\JAWS\obj\Debug\JAWS.pdb
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAWS\JAWS\obj\Debug\JAWS.AboutForm.resources
